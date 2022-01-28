@@ -1,2 +1,6 @@
-# dio-desafio-github-primeiro-rep
-Desafio de Projeto sobre Git/Github
+# Desafio de Projeto sobre GIT/GITHUB da DIO
+Respositório Criado para Desafio de Projeto
+
+## Links Utéis
+* [Sintaxe Básica Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+* [Sintaxe Básica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
